@@ -10,9 +10,10 @@ This is a simple Pingpong game implemented in Python using the Pygame library. T
 ## How to Run the Game
 
 1. Install Python if you haven't already. You can download it from the [official Python website](https://www.python.org/downloads/).
-2. Install Pygame library using pip:
+2. Install Pygame and Tkinter libraries using pip:
    ```
    pip install pygame
+   pip install tk
    ```
 3. Clone or download this repository to your local machine.
 4. Navigate to the directory containing the game files in your terminal or command prompt.
@@ -25,7 +26,7 @@ This is a simple Pingpong game implemented in Python using the Pygame library. T
 
 - Real-time ball and paddle physics simulation.
 - Score tracking for both the player and the AI.
-- Game over popup when either player reaches a score of 5.
+- Game over popup with the option to play again (Yes/No).
 
 ## Author
 
