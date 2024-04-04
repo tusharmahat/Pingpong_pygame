@@ -1,7 +1,7 @@
 # Pingpong Game
 
 This is a simple Pingpong game implemented in Python using the Pygame library. The game features a player-controlled paddle and an AI-controlled paddle, with the goal of hitting the ball back and forth without missing it. The first player to reach a score of 5 wins the game.
-![Pingpong Game GIF](/demo.gif)
+<img src="demo.gif" alt="Pingpong Game GIF" width="500" height="300">
 ## Game Controls
 
 - Press `Space` to start or restart the game.
